@@ -120,6 +120,21 @@ A curated list of top-tier, production-ready free and open-source software acros
 * **[Tabby](https://tabby.sh/)** – A highly configurable, modern, open-source terminal emulator, SSH, and serial client for terminal power users.
 * **[RustDesk](https://rustdesk.com/)** – A full-featured, open-source remote desktop infrastructure alternative to TeamViewer or AnyDesk, allowing complete self-hosting capability.
 
+### Infrastructure as Code (IaC) & Cloud Provisioning
+* **[OpenTofu](https://opentofu.org/)** – A community-driven, open-source infrastructure-as-code tool governed by the Linux Foundation. It serves as a seamless, drop-in replacement for Terraform.
+* **[Pulumi](https://www.pulumi.com/)** – *Free Community Tier.* An open-source IaC platform that lets you define and provision cloud infrastructure using real programming languages like Python, TypeScript, and Go.
+
+### Configuration Management & Automation
+* **[Ansible](https://www.ansible.com/)** – An agentless, YAML-based automation engine used widely for server provisioning, configuration management, and application deployment.
+
+### Network Discovery & Security Auditing
+* **[Nmap](https://nmap.org/)** – A legendary, powerful open-source utility for network discovery, port scanning, and vulnerability auditing.
+* **[OpenVAS / GVM](https://www.openvas.org/)** – A highly comprehensive, enterprise-grade open-source vulnerability scanner and management framework.
+
+### Infrastructure Monitoring & Log Aggregation
+* **[Zabbix](https://www.zabbix.com/)** – A mature, enterprise-grade open-source distributed monitoring solution for networks, servers, and cloud applications.
+* **[Prometheus](https://prometheus.io/)** + **[Grafana](https://grafana.com/)** – The industry-standard open-source pairing for scraping time-series metrics, alerting, and building high-impact engineering dashboards.
+
 ---
 
 ## 🤖 8. AI Developer / Engineer
