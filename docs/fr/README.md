@@ -14,6 +14,7 @@ Une liste rigoureusement sélectionnée de logiciels libres et open-source (FOSS
 7. [🛠️ Professionnel de l'IT](#7-professionnel-de-lit)
 8. [🤖 Développeur / Ingénieur en IA](#8-développeur--ingénieur-en-ia)
 9. [⚙️ Automations](#9-automations)
+10. [🕵️‍♂️ Plateformes Agentielles](#10-plateformes-agentielles)
 
 ---
 
@@ -90,7 +91,7 @@ Une liste rigoureusement sélectionnée de logiciels libres et open-source (FOSS
 
 ### Infrastructure & Conteneurisation
 * **[Docker](https://www.docker.com/)** – *Version gratuite pour particuliers/PME.* La plateforme standard de l'industrie pour créer, déployer et gérer des applications conteneurisées.
-* **[Podman](https://podman.io/)** – Une alternative open-source à Docker, sans démon (daemon-less) and sans privilèges racine (rootless), pour orchestrer nativement des conteneurs et pods OCI.
+* **[Podman](https://podman.io/)** – Une alternative open-source à Docker, sans démon (daemon-less) et sans privilèges racine (rootless), pour orchestrer nativement des conteneurs et pods OCI.
 
 ---
 
@@ -148,3 +149,15 @@ Une liste rigoureusement sélectionnée de logiciels libres et open-source (FOSS
 
 ### Automatisation de Scripts avec ou sans Navigateur
 * **[Playwright](https://playwright.dev/)** / **[Puppeteer](https://pptr.dev/)** – Bibliothèques open-source puissantes pour l'automatisation des navigateurs, le web scraping et l'exécution programmatique de tâches sur le web.
+
+---
+
+## 🕵️‍♂️ 10. Plateformes Agentielles
+
+### Frameworks Multi-Agents
+* **[CrewAI](https://www.crewai.com/)** – Un framework puissant pour orchestrer des agents IA autonomes et spécialisés capables de collaborer pour accomplir des tâches complexes.
+* **[AutoGen](https://microsoft.github.io/autogen/)** – Framework open-source développé par Microsoft pour concevoir des environnements de conversation multi-agents où les systèmes agissent de manière autonome, exploitent des outils et s'adaptent aux interventions humaines.
+
+### Gestion & Hébergement d'Agents
+* **[LangGraph](https://www.langchain.com/langgraph)** – Conçu par l'équipe derrière LangChain, cet outil permet de structurer des workflows agentiels complexes basés sur des graphes cycliques et d'états, assurant une orchestration robuste et fiable.
+* **[Dify](https://dify.ai/)** – Plateforme de développement d'applications LLM open-source offrant une interface visuelle et intuitive pour orchestrer, optimiser et opérer des flux de travail et des agents d'IA autonomes.
