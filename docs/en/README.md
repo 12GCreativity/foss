@@ -15,6 +15,9 @@ A curated list of top-tier, production-ready free and open-source software acros
 8. [🤖 AI Developer / Engineer](#8-ai-developer--engineer)
 9. [⚙️ Automations](#9-automations)
 10. [🕵️‍♂️ Agentic Platforms](#10-agentic-platforms)
+11. [🚀 DevOps & CI/CD](#11-devops--cicd)
+12. [🌐 CMS & Business Applications](#12-cms--business-applications)
+13. [🤝 Customer Support & Helpdesk](#13-customer-support--helpdesk)
 
 ---
 
@@ -188,3 +191,48 @@ A curated list of top-tier, production-ready free and open-source software acros
 ### Agent Hosting & Management
 * **[LangGraph](https://www.langchain.com/langgraph)** – Built by the creators of LangChain, this tool allows development of complex multi-agent workflows with stateful, cyclic graphs, making agent orchestration highly reliable.
 * **[Dify](https://dify.ai/)** – An open-source LLM app development platform that includes an intuitive visual interface to orchestrate, optimize, and operate autonomous AI agents and workflows.
+
+## 🚀 11. DevOps & CI/CD
+
+### Intégration & Déploiement Continus (CI/CD)
+* **[Jenkins](https://www.jenkins.io/)** – Le principal serveur d'automatisation open-source, offrant des centaines de plug-ins pour soutenir la création, le déploiement et l'automatisation de n'importe quel projet.
+* **[Gitea](https://about.gitea.com/)** / **[Forgejo](https://forgejo.org/)** – Des services Git légers et auto-hébergeables (similaires à GitHub) qui intègrent des fonctionnalités de CI/CD économes en ressources.
+
+### Orchestration de Conteneurs
+* **[Kubernetes (K8s)](https://kubernetes.io/)** – Le système open-source standard de l'industrie pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.
+* **[K3s](https://k3s.io/)** – Une distribution Kubernetes ultra-légère et entièrement conforme, packagée dans un seul binaire, idéale pour les environnements à ressources limitées et les serveurs locaux.
+
+### GitOps & Automatisation du Déploiement
+* **[Argo CD](https://argoproj.github.io/cd/)** – Un outil de déploiement continu déclaratif basé sur l'approche GitOps pour Kubernetes, garantissant que l'état de production correspond strictement aux dépôts Git.
+
+## 🌐 12. CMS & Business Applications
+
+### Content Management Systems (CMS)
+* **[WordPress](https://wordpress.org/)** – The world's most popular open-source CMS and blogging platform, extensively customizable via an unparalleled ecosystem of plugins and themes.
+* **[Ghost](https://ghost.org/)** – A sleek, modern, open-source publishing platform built on Node.js, optimized specifically for professional blogs, newsletters, and membership businesses.
+
+### Smarter Database Spreadsheets
+* **[NocoDB](https://nocodb.com/)** – A powerful open-source NoCode platform that turns any PostgreSQL, MySQL, or SQLite database into a smart, collaborative spreadsheet (an excellent alternative to Airtable).
+
+### Modern Workspace & Knowledge Bases
+* **[AppFlowy](https://www.appflowy.io/)** – A privacy-first, local-first open-source workspace for notes, wikis, tasks, and kanban boards (built as an alternative to Notion).
+* **[Docmost](https://docmost.com/)** – An open-source collaborative wiki and documentation platform built for teams to create, organize, and share real-time knowledge.
+
+### Customer Relationship Management (CRM)
+* **[Twenty](https://twenty.com/)** – A modern, incredibly fast, and visually polished open-source CRM built with a React/Node.js stack, designed to be highly extensible for tech-forward companies.
+* **[SuiteCRM](https://suitecrm.com/)** – The most feature-complete, enterprise-grade open-source CRM available, offering deep capabilities like quote generation and advanced workflow management.
+
+## 🤝 13. Customer Support & Helpdesk
+
+### Shared Inboxes & Ticketing Systems
+* **[FreeScout](https://freescout.org/)** – An ultra-lightweight, PHP/Laravel-based self-hosted customer support platform and shared mailbox. It serves as a perfect, low-resource open-source alternative to Zendesk or Help Scout.
+* **[Zammad](https://zammad.org/)** – A modern, feature-rich web-based customer support and IT service desk ticketing system written in Ruby. It features great web-hook capabilities and native smart chat integrations.
+* **[osTicket](https://osticket.com/)** – One of the most mature, widely-deployed open-source support ticket systems. It seamlessly routes inquiries from email, web forms, and phone into a multi-user web interface.
+
+### E-Commerce & Omnichannel Helpdesks
+* **[UVdesk](https://www.uvdesk.com/)** – An open-source helpdesk system built on Symfony, highly optimized for e-commerce operators. It natively integrates with major marketplaces like Shopify, WooCommerce, Magento, and Amazon.
+* **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** – A highly modern, streamlined, and 100% open-source ticketing tool built on the Python/Frappe framework with a clean Vue-based portal for both agents and customers.
+
+### Omnichannel Engagement & Live Chat
+* **[Chatwoot](https://www.chatwoot.com/)** – A powerful, modern customer engagement platform built on Ruby on Rails and Vue. It unifies website live chat widgets, WhatsApp, Twitter, and Facebook messages into a single collaborative workspace (an excellent open-source alternative to Intercom or Crisp).
+* **[Chaskiq](https://chaskiq.io/)** – A comprehensive, self-hostable conversational marketing and support platform designed as a direct open-source alternative to Intercom, featuring extensive web-widget customization, onboarding triggers, and support-bot capabilities.
