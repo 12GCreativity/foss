@@ -120,6 +120,21 @@ Une liste rigoureusement sélectionnée de logiciels libres et open-source (FOSS
 * **[Tabby](https://tabby.sh/)** – Un émulateur de terminal moderne, hautement configurable et open-source, intégrant des clients SSH et série pour les utilisateurs avancés.
 * **[RustDesk](https://rustdesk.com/)** – Une infrastructure de bureau à distance complète et open-source, alternative auto-hébergeable à TeamViewer ou AnyDesk.
 
+### Infrastructure as Code (IaC) & Provisionnement Cloud
+* **[OpenTofu](https://opentofu.org/)** – Un outil d'infrastructure as code open-source et géré par la Fondation Linux, conçu comme un remplacement transparent et direct à Terraform.
+* **[Pulumi](https://www.pulumi.com/)** – *Version communautaire gratuite.* Une plateforme d'IaC open-source qui permet de définir et provisionner des infrastructures cloud en utilisant de vrais langages de programmation (Python, TypeScript, Go).
+
+### Gestion de Configuration & Automatisation
+* **[Ansible](https://www.ansible.com/)** – Un moteur d'automatisation sans agent basé sur YAML, largement utilisé pour le provisionnement de serveurs, la gestion des configurations et le déploiement d'applications.
+
+### Découverte Réseau & Audit de Sécurité
+* **[Nmap](https://nmap.org/)** – Un utilitaire open-source légendaire et ultra-puissant pour la découverte de réseaux, le balayage de ports (port scanning) et l'audit de sécurité.
+* **[OpenVAS / GVM](https://www.openvas.org/)** – Un scanner de vulnérabilités open-source complet et un framework de gestion de niveau entreprise.
+
+### Supervision d'Infrastructure & Centralisation des Logs
+* **[Zabbix](https://www.zabbix.com/)** – Une solution open-source mature de supervision distribuée de classe entreprise pour les réseaux, les serveurs et les applications cloud.
+* **[Prometheus](https://prometheus.io/)** + **[Grafana](https://grafana.com/)** – Le duo open-source standard de l'industrie pour la collecte de métriques temporelles, la gestion des alertes et la création de tableaux de bord techniques de haut niveau.
+
 ---
 
 ## 🤖 8. Développeur / Ingénieur en IA
