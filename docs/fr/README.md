@@ -93,6 +93,18 @@ Une liste rigoureusement sélectionnée de logiciels libres et open-source (FOSS
 * **[Docker](https://www.docker.com/)** – *Version gratuite pour particuliers/PME.* La plateforme standard de l'industrie pour créer, déployer et gérer des applications conteneurisées.
 * **[Podman](https://podman.io/)** – Une alternative open-source à Docker, sans démon (daemon-less) et sans privilèges racine (rootless), pour orchestrer nativement des conteneurs et pods OCI.
 
+### Backend-as-a-Service (BaaS) & Backends Temps Réel
+* **[Supabase](https://supabase.com/)** – Une alternative open-source à Firebase proposant une base de données Postgres en temps réel, la gestion des authentifications, des API instantanées, des fonctions Edge et du stockage d'objets.
+* **[Appwrite](https://appwrite.io/)** – Une plateforme backend open-source complète fournie sous forme de conteneurs Docker, offrant des services d'authentification, de bases de données, de fonctions serverless et de stockage.
+* **[PocketBase](https://pocketbase.io/)** – Un backend temps réel open-source incroyablement léger, compilé dans un seul fichier exécutable portable, comprenant une base de données SQLite embarquée, l'authentification et le stockage de fichiers.
+
+### PaaS Auto-Hébergé (Platform-as-a-Service)
+* **[Coolify](https://coolify.io/)** – Une alternative open-source et auto-hébergeable à Vercel, Heroku et Netlify qui permet de déployer facilement des sites statiques, des bases de données et des applications full-stack sur vos propres serveurs.
+* **[Dokku](https://dokku.com/)** – Un PaaS minimaliste propulsé par Docker qui vous permet de créer et gérer le cycle de vie de vos applications sur votre propre machine via de simples commandes Git push.
+
+### Développement & Test d'API
+* **[Hoppscotch](https://hoppscotch.io/)** – Un écosystème de développement d'API open-source gratuit, rapide et élégant (une excellente alternative légère à Postman).
+
 ---
 
 ## 📊 6. Data Scientist / Analyste
