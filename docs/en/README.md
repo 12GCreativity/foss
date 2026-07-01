@@ -14,6 +14,7 @@ A curated list of top-tier, production-ready free and open-source software acros
 7. [🛠️ IT Professional](#7-it-professional)
 8. [🤖 AI Developer / Engineer](#8-ai-developer--engineer)
 9. [⚙️ Automations](#9-automations)
+10. [🕵️‍♂️ Agentic Platforms](#10-agentic-platforms)
 
 ---
 
@@ -148,3 +149,15 @@ A curated list of top-tier, production-ready free and open-source software acros
 
 ### Browser & Browser-less Script Automation
 * **[Playwright](https://playwright.dev/)** / **[Puppeteer](https://pptr.dev/)** – Powerful open-source libraries for browser automation, web scraping, and programmatically executing tasks on the web.
+
+---
+
+## 🕵️‍♂️ 10. Agentic Platforms
+
+### Multi-Agent Frameworks
+* **[CrewAI](https://www.crewai.com/)** – A powerful framework for orchestrating role-playing, autonomous AI agents to collaborate seamlessly and tackle complex tasks.
+* **[AutoGen](https://microsoft.github.io/autogen/)** – Microsoft’s open-source framework for building multi-agent conversation environments where agents can act autonomously, use tools, and work with human input.
+
+### Agent Hosting & Management
+* **[LangGraph](https://www.langchain.com/langgraph)** – Built by the creators of LangChain, this tool allows development of complex multi-agent workflows with stateful, cyclic graphs, making agent orchestration highly reliable.
+* **[Dify](https://dify.ai/)** – An open-source LLM app development platform that includes an intuitive visual interface to orchestrate, optimize, and operate autonomous AI agents and workflows.
