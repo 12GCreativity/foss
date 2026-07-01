@@ -93,6 +93,18 @@ A curated list of top-tier, production-ready free and open-source software acros
 * **[Docker](https://www.docker.com/)** – *Free tier for personal/small businesses.* The industry standard platform for building, deploying, and managing containerized applications.
 * **[Podman](https://podman.io/)** – An open-source, daemon-less, rootless alternative to Docker for managing OCI containers and pods natively.
 
+### Backend-as-a-Service (BaaS) & Realtime Backends
+* **[Supabase](https://supabase.com/)** – An open-source Firebase alternative providing a real-time Postgres database, authentication, instant APIs, Edge Functions, and object storage.
+* **[Appwrite](https://appwrite.io/)** – A comprehensive open-source backend platform packaged as a set of Docker containers, offering Auth, Databases, Functions, Storage, and Realtime capabilities.
+* **[PocketBase](https://pocketbase.io/)** – An incredibly lightweight, open-source realtime backend compiled into a single portable executable file, featuring an embedded SQLite database, auth, and file storage.
+
+### Self-Hosted PaaS (Platform-as-a-Service)
+* **[Coolify](https://coolify.io/)** – An open-source, self-hostable alternative to Vercel, Heroku, and Netlify that allows you to easily deploy static sites, databases, and full-stack applications on your own servers.
+* **[Dokku](https://dokku.com/)** – A minimalist, Docker-powered PaaS that helps you build and manage an application lifecycle on your own hardware via simple Git pushes (essentially your own private Heroku mini-node).
+
+### API Development & Testing
+* **[Hoppscotch](https://hoppscotch.io/)** – A free, fast, and beautiful open-source API development ecosystem (an excellent lightweight alternative to Postman).
+
 ---
 
 ## 📊 6. Data Scientist / Analyst
