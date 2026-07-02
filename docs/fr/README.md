@@ -5,19 +5,19 @@
 Une liste rigoureusement sélectionnée de logiciels libres et open-source (FOSS) de premier plan, prêts pour la production et adaptés à de multiples secteurs. Idéal pour les développeurs, créateurs, scientifiques et professionnels de l'IT à la recherche d'alternatives de haute qualité aux écosystèmes propriétaires.
 
 ## 📌 Table des Matières
-1. [🎨 Design Graphique](#1-design-graphique)
-2. [🎬 Animation & Design de Jeux](#2-animation--design-de-jeux)
-3. [🎞️ Réalisation de Films / Production Vidéo](#3-réalisation-de-films--production-vidéo)
-4. [✍️ Écriture / Édition](#4-écriture--édition)
-5. [💻 Développement Logiciel (Web & Mobile)](#5-développement-logiciel-web--mobile)
-6. [📊 Data Scientist / Analyste](#6-data-scientist--analyste)
-7. [🛠️ Professionnel de l'IT](#7-professionnel-de-lit)
-8. [🤖 Développeur / Ingénieur en IA](#8-développeur--ingénieur-en-ia)
-9. [⚙️ Automations](#9-automations)
-10. [🕵️‍♂️ Plateformes Agentielles](#10-plateformes-agentielles)
-11. [🚀 DevOps & CI/CD](#11-devops--cicd)
-12. [🌐 CMS & Applications d'Entreprise](#12-cms--applications-dentreprise)
-13. [🤝 Support Client & Assistance (Helpdesk)](#13-support-client--assistance-helpdesk)
+1. [🎨 Design Graphique](#-1-design-graphique)
+2. [🎬 Animation & Design de Jeux](#-2-animation--design-de-jeux)
+3. [🎞️ Réalisation de Films / Production Vidéo](#-3-réalisation-de-films--production-vidéo)
+4. [✍️ Écriture / Édition](#-4-écriture--édition)
+5. [💻 Développement Logiciel (Web & Mobile)](#-5-développement-logiciel-web--mobile)
+6. [📊 Data Scientist / Analyste](#-6-data-scientist--analyste)
+7. [🛠️ Professionnel de l'IT](#-7-professionnel-de-lit)
+8. [🤖 Développeur / Ingénieur en IA](#-8-développeur--ingénieur-en-ia)
+9. [⚙️ Automations](#-9-automations)
+10. [🕵️‍♂️ Plateformes Agentielles](#-10-plateformes-agentielles)
+11. [🚀 DevOps & CI/CD](#-11-devops--cicd)
+12. [🌐 CMS & Applications d'Entreprise](#-12-cms--applications-dentreprise)
+13. [🤝 Support Client & Assistance (Helpdesk)](#-13-support-client--assistance-helpdesk)
 
 ---
 
