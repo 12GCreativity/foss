@@ -194,16 +194,16 @@ A curated list of top-tier, production-ready free and open-source software acros
 
 ## 🚀 11. DevOps & CI/CD
 
-### Intégration & Déploiement Continus (CI/CD)
-* **[Jenkins](https://www.jenkins.io/)** – Le principal serveur d'automatisation open-source, offrant des centaines de plug-ins pour soutenir la création, le déploiement et l'automatisation de n'importe quel projet.
-* **[Gitea](https://about.gitea.com/)** / **[Forgejo](https://forgejo.org/)** – Des services Git légers et auto-hébergeables (similaires à GitHub) qui intègrent des fonctionnalités de CI/CD économes en ressources.
+### Continuous Integration & Deployment (CI/CD)
+* **[Jenkins](https://www.jenkins.io/)** – The leading open-source automation server, providing hundreds of plugins to support building, deploying, and automating any project.
+* **[Gitea](https://about.gitea.com/)** / **[Forgejo](https://forgejo.org/)** – Lightweight, self-hostable Git services (similar to GitHub) that include built-in, low-resource CI/CD actions.
 
-### Orchestration de Conteneurs
-* **[Kubernetes (K8s)](https://kubernetes.io/)** – Le système open-source standard de l'industrie pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.
-* **[K3s](https://k3s.io/)** – Une distribution Kubernetes ultra-légère et entièrement conforme, packagée dans un seul binaire, idéale pour les environnements à ressources limitées et les serveurs locaux.
+### Container Orchestration
+* **[Kubernetes (K8s)](https://kubernetes.io/)** – The industry-standard open-source system for automating deployment, scaling, and management of containerized applications.
+* **[K3s](https://k3s.io/)** – A highly lightweight, fully compliant Kubernetes distribution wrapped in a single binary, optimized for low-resource environments and home labs.
 
-### GitOps & Automatisation du Déploiement
-* **[Argo CD](https://argoproj.github.io/cd/)** – Un outil de déploiement continu déclaratif basé sur l'approche GitOps pour Kubernetes, garantissant que l'état de production correspond strictement aux dépôts Git.
+### GitOps & Deployment Automation
+* **[Argo CD](https://argoproj.github.io/cd/)** – A declarative, GitOps continuous delivery tool for Kubernetes that ensures deployed applications match the state defined in Git repositories.
 
 ## 🌐 12. CMS & Business Applications
 
