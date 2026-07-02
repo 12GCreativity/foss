@@ -5,7 +5,7 @@
 A curated list of top-tier, production-ready free and open-source software across multiple industries. Perfect for developers, creators, scientists, and IT professionals looking for high-quality alternatives to proprietary ecosystems.
 
 ## 📌 Table of Contents
-1. [🎨 Graphic Design](#graphic-design)
+1. [🎨 Graphic Design](#-1-graphic-design)
 2. [🎬 Animation & Game Design](#2-animation--game-design)
 3. [🎞️ Film Making / Video Production](#3-film-making--video-production)
 4. [✍️ Writer / Publisher](#4-writer--publisher)
@@ -21,7 +21,7 @@ A curated list of top-tier, production-ready free and open-source software acros
 
 ---
 
-## 🎨 Graphic Design
+## 🎨 1. Graphic Design
 
 ### Vector & Illustration
 * **[Inkscape](https://inkscape.org/)** – Professional vector graphics editor using SVG as its native format. An excellent open-source alternative to Adobe Illustrator.
