@@ -21,7 +21,7 @@ A curated list of top-tier, production-ready free and open-source software acros
 
 ---
 
-##  Graphic Design 🎨
+##  Graphic Design
 
 ### Vector & Illustration
 * **[Inkscape](https://inkscape.org/)** – Professional vector graphics editor using SVG as its native format. An excellent open-source alternative to Adobe Illustrator.
