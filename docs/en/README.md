@@ -6,18 +6,18 @@ A curated list of top-tier, production-ready free and open-source software acros
 
 ## 📌 Table of Contents
 1. [🎨 Graphic Design](#-1-graphic-design)
-2. [🎬 Animation & Game Design](#2-animation--game-design)
-3. [🎞️ Film Making / Video Production](#3-film-making--video-production)
-4. [✍️ Writer / Publisher](#4-writer--publisher)
-5. [💻 Software Development (Web & Mobile)](#5-software-development-web--mobile)
-6. [📊 Data Scientist / Analyst](#6-data-scientist--analyst)
-7. [🛠️ IT Professional](#7-it-professional)
-8. [🤖 AI Developer / Engineer](#8-ai-developer--engineer)
-9. [⚙️ Automations](#9-automations)
-10. [🕵️‍♂️ Agentic Platforms](#10-agentic-platforms)
-11. [🚀 DevOps & CI/CD](#11-devops--cicd)
-12. [🌐 CMS & Business Applications](#12-cms--business-applications)
-13. [🤝 Customer Support & Helpdesk](#13-customer-support--helpdesk)
+2. [🎬 Animation & Game Design](#-2-animation--game-design)
+3. [🎞️ Film Making / Video Production](#-3-film-making--video-production)
+4. [✍️ Writer / Publisher](#-4-writer--publisher)
+5. [💻 Software Development (Web & Mobile)](#-5-software-development-web--mobile)
+6. [📊 Data Scientist / Analyst](#-6-data-scientist--analyst)
+7. [🛠️ IT Professional](#-7-it-professional)
+8. [🤖 AI Developer / Engineer](#-8-ai-developer--engineer)
+9. [⚙️ Automations](#-9-automations)
+10. [🕵️‍♂️ Agentic Platforms](#-10-agentic-platforms)
+11. [🚀 DevOps & CI/CD](#-11-devops--cicd)
+12. [🌐 CMS & Business Applications](#-12-cms--business-applications)
+13. [🤝 Customer Support & Helpdesk](#-13-customer-support--helpdesk)
 
 ---
 
